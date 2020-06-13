@@ -1,0 +1,17 @@
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\[darkness] Drag Player.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\[darkness] Drag Player.pdb
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\Assembly-CSharp-firstpass.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\Assembly-CSharp.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\Rocket.API.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\Rocket.Core.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\Rocket.Unturned.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\UnityEngine.CoreModule.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\UnityEngine.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\UnityEngine.PhysicsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\UnityEngine.UI.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\Newtonsoft.Json.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\bin\Release\UnityEngine.UnityWebRequestModule.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\obj\Release\[darkness] Drag Player.csproj.CoreCompileInputs.cache
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\obj\Release\[darkness] Drag Player.csproj.CopyComplete
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\obj\Release\[darkness] Drag Player.dll
+J:\Todo\Informática\C# Sources\[darkness] Drag Players\obj\Release\[darkness] Drag Player.pdb
